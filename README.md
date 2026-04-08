@@ -11,8 +11,11 @@ Developed a 4-page Power BI report to provide management with clear and actionab
 
 ## 📷 Dashboard Images
 [Executive Dashboard](images/execdashboard.png)
+
 [Map Dashboard](images/map.png)
+
 [Product Detail](images/productdetail.png)
+
 [Customer Detail](images/custdetail.png)
 
 ## 📄 Documentation
