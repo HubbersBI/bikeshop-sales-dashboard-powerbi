@@ -9,16 +9,20 @@ Developed a 4-page Power BI report to provide management with clear and actionab
   - DAX (Measures & calculations)
   - Power Query (Data transformation)
 
-
 ## 📷 Dashboard Images
 [Executive Dashboard](images/execdashboard.png)
 
 [Map Dashboard](images/map.png)
 
-[Product Detail Dashboard](images/productdetail.png)
+[Product Detail dashboard](images/productdetail.png)
 
 [Customer Detail Dashboardl](images/custdetail.png)
 
 ## 📄 Documentation
-[Full project documentation](BI_bikeshop.pdf)
+[Full Project Documentation](docs/BI_bikeshop.pdf)
+
+## 📄 Project Files
+[SQL File For Views](sql/SQLviews_Query)
+[Original Power BI File](pbix/JuulsBikeShop.pbix)
+
 
