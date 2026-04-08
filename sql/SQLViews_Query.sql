@@ -1,5 +1,3 @@
-USE p1_juulsbikeshop;
-
 CREATE VIEW v_dim_product_lookup AS 
 SELECT 
 pl.productkey,
