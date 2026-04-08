@@ -6,8 +6,8 @@ Developed a 4-page Power BI report to provide management with clear and actionab
 ## 🛠 Tools Used
 - SQL (Data extraction & schema design)
 - Power BI (Data modeling & visualization)
-- DAX (Measures & calculations)
-- Power Query (Data transformation)
+ - DAX (Measures & calculations)
+ - Power Query (Data transformation)
 
 ## 📷 Dashboard Images
 [Executive Dashboard](images/execdashboard.png)
