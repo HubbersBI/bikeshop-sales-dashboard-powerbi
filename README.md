@@ -20,5 +20,5 @@ Developed a 4-page Power BI report to provide management with clear and actionab
 [Customer Detail Dashboardl](images/custdetail.png)
 
 ## 📄 Documentation
-[Full project documentation]()
+[Full project documentation](BI_bikeshop.pdf)
 
