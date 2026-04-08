@@ -23,6 +23,7 @@ Developed a 4-page Power BI report to provide management with clear and actionab
 
 ## 📄 Project Files
 [SQL File For Views](sql/SQLviews_Query)
+
 [Original Power BI File](pbix/JuulsBikeShop.pbix)
 
 
