@@ -25,8 +25,7 @@ SalesTerritoryKey,
 Region,
 Country,
 Continent
-FROM
-territory_lookup;
+FROM territory_lookup;
 
 CREATE VIEW v_dim_calendar_lookup AS
 SELECT
