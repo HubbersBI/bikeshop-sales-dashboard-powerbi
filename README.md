@@ -9,7 +9,8 @@ Developed a 4-page Power BI report to provide management with clear and actionab
 - DAX (Measures & calculations)
 - Power Query (Data transformation)
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Images
+[Executive Dashboard](images/execdashboard.png)
 
 
 ## 📄 Documentation
