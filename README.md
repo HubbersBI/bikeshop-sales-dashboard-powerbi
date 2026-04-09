@@ -1,7 +1,7 @@
 # Juuls Bikeshop 4 Page Sales Dashboard (Power BI)
 
 ## 📊 Project Overview
-Developed a 4-page Power BI report to provide management with clear and actionable business insights, including an executive dashboard, sales map, and detailed product and customer analysis. Tooltips, page navigation, and a mobile version were added.
+Developed a 4-page Power BI report to provide management with business insights, including an executive dashboard, sales map, and detailed product and customer analysis. Tooltips, page navigation, and a mobile version were added.
 
 ## 🛠 Tools Used
 - SQL (Data extraction & schema design)
