@@ -19,7 +19,7 @@ Developed a 4-page Power BI report to provide management with business insights,
 [Customer Detail Dashboardl](images/custdetail.png)
 
 ## 📄 Documentation
-[Full Project Documentation](docs/BI_bikeshop.pdf)
+[PDF Pipeline Summary](docs/BI_bikeshop.pdf)
 
 ## 📄 Project Files
 [SQL File For Views](sql/SQLViews_Query.sql)
